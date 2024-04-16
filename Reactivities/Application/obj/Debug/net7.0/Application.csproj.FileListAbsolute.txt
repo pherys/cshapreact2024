@@ -1,0 +1,17 @@
+C:\new_project\Reactivities\Application\bin\Debug\net7.0\Application.deps.json
+C:\new_project\Reactivities\Application\bin\Debug\net7.0\Application.dll
+C:\new_project\Reactivities\Application\bin\Debug\net7.0\Application.pdb
+C:\new_project\Reactivities\Application\bin\Debug\net7.0\Domain.dll
+C:\new_project\Reactivities\Application\bin\Debug\net7.0\Persistence.dll
+C:\new_project\Reactivities\Application\bin\Debug\net7.0\Domain.pdb
+C:\new_project\Reactivities\Application\bin\Debug\net7.0\Persistence.pdb
+C:\new_project\Reactivities\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\new_project\Reactivities\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\new_project\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\new_project\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\new_project\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\new_project\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\new_project\Reactivities\Application\obj\Debug\net7.0\Application.dll
+C:\new_project\Reactivities\Application\obj\Debug\net7.0\refint\Application.dll
+C:\new_project\Reactivities\Application\obj\Debug\net7.0\Application.pdb
+C:\new_project\Reactivities\Application\obj\Debug\net7.0\ref\Application.dll
